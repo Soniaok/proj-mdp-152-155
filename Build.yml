@@ -1,5 +1,5 @@
 ---
-- hosts: build
+- hosts: Build
   become: yes
   tasks:
     - name: Update the system
