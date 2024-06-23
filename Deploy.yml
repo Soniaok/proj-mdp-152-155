@@ -1,5 +1,5 @@
 ---
-- hosts: deploy
+- hosts: Deploy
   become: yes
   tasks:
     - name: Update the system
